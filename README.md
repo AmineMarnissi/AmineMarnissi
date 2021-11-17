@@ -1,4 +1,4 @@
-### Hi there 👋, Mohamed Amine Marnissi
+### Mohamed Amine Marnissi
 #### Research Engineer
 ![Research Engineer](https://github.com/AmineMarnissi/images_profile/blob/main/github_pages.jpg)
 
