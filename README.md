@@ -1,7 +1,7 @@
 ![Research Engineer](https://github.com/AmineMarnissi/images_profile/blob/main/github_pag.jpg)
 
 ## Mohamed Amine Marnissi 
-#### Research Engineer
+
 I am soon to finish my PhD in Machine Learning/Deep Learning at the National School of Engineering of the University of Sfax. My current research focuses on computer vision (detection, localisation, segmentation, etc.). 
 I am particularly interested in first order optimization, loss functions, domain adaptation and related topics in artificial intelligence. I am also passionate about electronics, robotics and competitive programming.
 
