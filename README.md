@@ -5,6 +5,9 @@
 I am soon to finish my PhD in Machine Learning/Deep Learning at the National School of Engineering of the University of Sfax. My current research focuses on computer vision (detection, localisation, segmentation, etc.). 
 I am particularly interested in first order optimization, loss functions, domain adaptation and related topics in artificial intelligence. I am also passionate about electronics, robotics and competitive programming.
 
+- 💼 any freelance work? do reach, [email](mohamed.amine.marnissi@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
