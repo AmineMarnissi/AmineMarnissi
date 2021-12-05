@@ -2,8 +2,7 @@
 
 ## Mohamed Amine Marnissi 
 
-I am soon to finish my PhD in Machine Learning/Deep Learning at the National School of Engineering of the University of Sfax. My current research focuses on computer vision (detection, localisation, segmentation, etc.). 
-I am particularly interested in first order optimization, loss functions, domain adaptation and related topics in artificial intelligence. I am also passionate about electronics, robotics and competitive programming.
+Actually, I am a PhD student in machine learning/deep learning at LATIS lab and Enova Robotics. My research interests focus on computer vision (detection, localization, segmentation, classification, etc.). I am as well interested in optimization, loss functions, domain adaptation and related topics in artificial intelligence. I am also passionate about electronics, robotics and competitive programming.
 
 - 💼 any freelance work? do reach, [email](mohamed.amine.marnissi@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
