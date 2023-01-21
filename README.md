@@ -1,4 +1,4 @@
-![Research Engineer](https://github.com/AmineMarnissi/images_profile/blob/main/github_pag.jpg)
+![Research Engineer](https://github.com/AmineMarnissi/images_profile/blob/main/git_profile.png)
 
 ## Mohamed Amine Marnissi 
 
