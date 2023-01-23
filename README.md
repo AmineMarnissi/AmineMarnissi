@@ -2,10 +2,43 @@
 
 ## Mohamed Amine Marnissi 
 
-Actually, I am a PhD student in machine learning/deep learning at LATIS lab and Enova Robotics. My research interests focus on computer vision (detection, localization, segmentation, classification, etc.). I am as well interested in optimization, loss functions, domain adaptation and related topics in artificial intelligence. I am also passionate about electronics, robotics and competitive programming.
+# Portfolio - Mohamed Amine Marnissi
 
-- 💼 any freelance work? do reach, [email](mohamed.amine.marnissi@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+As a research engineer in deep learning and computer vision, I bring expertise in developing advanced algorithms for image and video analysis, object recognition, and neural network architecture design. I hold a Bachelor's degree in Computer Science, a Master's degree in Artificial Intelligence, and a PhD in Computer Systems Technology. I am a freelance professional with a proven track record of publishing in high-impact journals and conferences. Passionate about staying up-to-date with the latest advancements in my field, I attend conferences and workshops, and am a member of research communities and professional organizations.
+
+Welcome to my portfolio! This repository contains a collection of my personal projects, work samples, and research papers. 
+
+## Table of Contents
+
+- [Projects](#projects)
+- [Research Papers](#research-papers)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
+
+## Projects
+
+- Project 1: [Project Name](link to the project) - A brief description of the project and its features.
+- Project 2: [Project Name](link to the project) - A brief description of the project and its features.
+- Project 3: [Project Name](link to the project) - A brief description of the project and its features.
+
+## Research Papers
+
+- Paper 1: [Paper Title](link to the paper) - A brief summary of the paper and its main contributions.
+- Paper 2: [Paper Title](link to the paper) - A brief summary of the paper and its main contributions.
+- Paper 3: [Paper Title](link to the paper) - A brief summary of the paper and its main contributions.
+
+## Technologies Used
+
+- Language 1
+- Language 2
+- Framework/Library
+
+## Contact
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](link to your LinkedIn profile)
+- GitHub: [Your GitHub Profile](link to your GitHub profile)
+
 
 **languages and tools:**
 
