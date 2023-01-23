@@ -35,7 +35,7 @@ Welcome to my portfolio! This repository contains a collection of my personal pr
 ## Contact
 
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](link to your LinkedIn profile)
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/amine-marnissi-168227a2/)](link to your LinkedIn profile)
 - GitHub: [Your GitHub Profile](link to your GitHub profile)
 
 
