@@ -21,7 +21,7 @@ Welcome to my portfolio! This repository contains a collection of my personal pr
 
 ## Research Papers
 
-- Paper 1: [Unsupervised thermal-to-visible domain adaptation method for pedestrian detection](link to the paper) - A brief summary of the paper and its main contributions.
+- Paper 1: [Unsupervised thermal-to-visible domain adaptation method for pedestrian detection]([link to the paper](https://aminemarnissi.github.io/projects/prl.html)) - A brief summary of the paper and its main contributions.
 - Paper 2: [Paper Title](link to the paper) - A brief summary of the paper and its main contributions.
 - Paper 3: [Paper Title](link to the paper) - A brief summary of the paper and its main contributions.
 
