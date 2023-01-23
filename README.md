@@ -1,7 +1,5 @@
 ![Research Engineer](https://github.com/AmineMarnissi/images_profile/blob/main/git_profile.png)
 
-## Mohamed Amine Marnissi 
-
 # Portfolio - Mohamed Amine Marnissi
 
 As a research engineer in deep learning and computer vision, I bring expertise in developing advanced algorithms for image and video analysis, object recognition, and neural network architecture design. I hold a Bachelor's degree in Computer Science, a Master's degree in Artificial Intelligence, and a PhD in Computer Systems Technology. I am a freelance professional with a proven track record of publishing in high-impact journals and conferences. Passionate about staying up-to-date with the latest advancements in my field, I attend conferences and workshops, and am a member of research communities and professional organizations.
