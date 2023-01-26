@@ -32,7 +32,7 @@ Welcome to my portfolio! This repository contains a collection of my personal pr
 - Language 2
 - Framework/Library
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,js,react,git,docker&theme=light)](https://skills.thijs.gg)
 
 ## Contact
 
