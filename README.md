@@ -1,14 +1,14 @@
 ![Research Engineer](https://github.com/AmineMarnissi/images_profile/blob/main/git_profile.png)
 
 # Portfolio - Mohamed Amine Marnissi
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amine-marnissi-168227a2/)[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://aminemarnissi.github.io/)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/https://github.com/AmineMarnissi/AmineMarnissi)
-[<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=_u3ZOU4AAAAJ&hl=fr)
-
 
 As a research engineer in deep learning and computer vision, I bring expertise in developing advanced algorithms for image and video analysis, object recognition, and neural network architecture design. I hold a Bachelor's degree in Computer Science, a Master's degree in Artificial Intelligence, and a PhD in Computer Systems Technology. I am a freelance professional with a proven track record of publishing in high-impact journals and conferences. Passionate about staying up-to-date with the latest advancements in my field, I attend conferences and workshops, and am a member of research communities and professional organizations.
 
 Welcome to my portfolio! This repository contains a collection of my personal projects, work samples, and research papers. 
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amine-marnissi-168227a2/)[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://aminemarnissi.github.io/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/https://github.com/AmineMarnissi/AmineMarnissi)
+[<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=_u3ZOU4AAAAJ&hl=fr)
 
 ## Table of Contents
 
