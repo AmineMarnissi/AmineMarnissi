@@ -25,10 +25,10 @@ Welcome to my portfolio! This repository contains a collection of my personal pr
 
 ## Research Papers
 
-- 📜: [Unsupervised thermal-to-visible domain adaptation method for pedestrian detection](https://aminemarnissi.github.io/projects/prl.html) 
-- Paper 2: [Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection](https://aminemarnissi.github.io/projects/icpr.html)
-- Paper 3: [Feature distribution alignments for object detection in the thermal domain](https://aminemarnissi.github.io/projects/vcj.html)
-- Paper 3: [Bispectral Pedestrian Detection Augmented with Saliency Maps using Transformer](https://aminemarnissi.github.io/projects/visapp.html)
+- 📜 [Unsupervised thermal-to-visible domain adaptation method for pedestrian detection](https://aminemarnissi.github.io/projects/prl.html) 
+- 📜 [Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection](https://aminemarnissi.github.io/projects/icpr.html)
+- 📜 [Feature distribution alignments for object detection in the thermal domain](https://aminemarnissi.github.io/projects/vcj.html)
+- 📜 [Bispectral Pedestrian Detection Augmented with Saliency Maps using Transformer](https://aminemarnissi.github.io/projects/visapp.html)
 
 ## Technologies Used
 
