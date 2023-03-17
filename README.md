@@ -19,7 +19,7 @@ Welcome to my portfolio! This repository contains a collection of my personal pr
 
 ## Projects
 
-- Project 1: [:notebook:](https://github.com/AmineMarnissi/thermal_detector) - Development of a DL model for people and car detection in a thermal camera.
+- Project 1: [:github:](https://github.com/AmineMarnissi/thermal_detector) - Development of a DL model for people and car detection in a thermal camera.
 - Project 2: [Project Name](link to the project) - A brief description of the project and its features.
 - Project 3: [Project Name](link to the project) - A brief description of the project and its features.
 
