@@ -1,4 +1,4 @@
-![Research Engineer](https://github.com/AmineMarnissi/images_profile/blob/main/git_profile.png)
+
 
 # Portfolio - Mohamed Amine Marnissi
 
